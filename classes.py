@@ -52,10 +52,7 @@ while(True):
             obj.returning_book()
     else:
             print("Thank you!!!")
-            break .
-lib.borrow("Basics of Python")
-lib.return_book("Basics of Python")
-lib.return_book("Basics of Java")
+            break
 
 
 
